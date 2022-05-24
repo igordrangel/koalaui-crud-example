@@ -31,6 +31,7 @@
               "src/assets"
             ],
             "styles": [
+              "./node_modules/@koalarx/ui/core/theme/koala.theme.css",
               "src/styles.scss"
             ],
             "scripts": []
